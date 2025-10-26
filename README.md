@@ -10,9 +10,18 @@ The project is deployed live on Netlify and includes animations, seat selection,
 (You can later add image links here)
 
 - 🎬 Home Page
+<img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 35 49 AM" src="https://github.com/user-attachments/assets/79966171-62b9-4e4c-af8d-9aea05e62178" />
+<img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 35 57 AM" src="https://github.com/user-attachments/assets/c3d01e35-b705-4259-ba6d-2e91e7ab0eda" />
+
 - 🎟️ Seat Selection Page
+<img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 36 16 AM" src="https://github.com/user-attachments/assets/4989d161-3f68-455b-9540-8a27eb972673" />
+
 - 💳 Payment Page
+<img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 36 24 AM" src="https://github.com/user-attachments/assets/206ec848-aa99-476e-9c1d-6abb77aa51dc" />
+
 - ✅ Booking Success Page
+<img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 36 31 AM" src="https://github.com/user-attachments/assets/0136ef9d-2c9d-47ad-92b5-ee28473a207c" />
+
 
 ### 🛠️ Tech Stack
 - Frontend: React.js, HTML5, CSS3, JavaScript
