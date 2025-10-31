@@ -39,12 +39,12 @@ The project is deployed live on Netlify and includes animations, seat selection,
 ### Getting Started (Run Locally)
 - Clone the repository
   ```bash
-  - git clone https://github.com/Fahimraj12/Threatre-Ticket-Booking-Site.git
-  - cd Threatre-Ticket-Booking-Site
+  git clone https://github.com/Fahimraj12/Threatre-Ticket-Booking-Site.git
+  cd Threatre-Ticket-Booking-Site
 
 - Install dependencies
   ```bash
-  - npm install
+  npm install
 
 - Start the development server
   ```bash
