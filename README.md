@@ -59,14 +59,14 @@ Theatre-Ticket-Booking/
 │   ├── favicon.ico
 │   └── _redirects (for SPA routing)
 │
-###### ├── src/
-###### │   ├── components/
-###### │   │   ├── Cinema.jsx
-###### │   │   ├── Payment.jsx
-###### │   │   ├── PaymentSuccess.jsx
-###### │   │   └── Home.jsx
-###### │   ├── App.js
-###### │   ├── index.js
+├── src/
+│   ├── components/
+│   │   ├── Cinema.jsx
+│   │   ├── Payment.jsx
+│   │   ├── PaymentSuccess.jsx
+│   │   └── Home.jsx
+│   ├── App.js
+s│   ├── index.js
 ###### │   └── App.css
 ###### │
 ###### ├── package.json
