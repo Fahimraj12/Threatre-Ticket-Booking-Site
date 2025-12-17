@@ -52,13 +52,13 @@ The project is deployed live on Netlify and includes animations, seat selection,
   Open in browser → http://localhost:3000
 
 ### Folder Structure
-###### Theatre-Ticket-Booking/
-###### │
-###### ├── public/
-###### │   ├── index.html
-###### │   ├── favicon.ico
-###### │   └── _redirects (for SPA routing)
-###### │
+Theatre-Ticket-Booking/
+│
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── _redirects (for SPA routing)
+│
 ###### ├── src/
 ###### │   ├── components/
 ###### │   │   ├── Cinema.jsx
