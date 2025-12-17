@@ -65,6 +65,7 @@ Theatre-Ticket-Booking/
 │   │   ├── Cinema.jsx
 │   │   ├── Payment.jsx
 │   │   ├── PaymentSuccess.jsx
+│   │   ├── Success.jsx
 │   │   └── Home.jsx
 │   ├── App.js
 │   ├── index.js
