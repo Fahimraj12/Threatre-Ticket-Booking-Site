@@ -66,11 +66,11 @@ Theatre-Ticket-Booking/
 │   │   ├── PaymentSuccess.jsx
 │   │   └── Home.jsx
 │   ├── App.js
-s│   ├── index.js
-###### │   └── App.css
-###### │
-###### ├── package.json
-###### └── README.md
+│   ├── index.js
+│   └── App.css
+│
+├── package.json
+└── README.md
 
 ### Future Enhancements
 - 🔐 Add user login / authentication
