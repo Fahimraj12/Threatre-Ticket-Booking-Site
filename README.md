@@ -52,6 +52,7 @@ The project is deployed live on Netlify and includes animations, seat selection,
   Open in browser → http://localhost:3000
 
 ### Folder Structure
+~~~
 Theatre-Ticket-Booking/
 │
 ├── public/
@@ -71,7 +72,7 @@ Theatre-Ticket-Booking/
 │
 ├── package.json
 └── README.md
-
+~~~
 ### Future Enhancements
 - 🔐 Add user login / authentication
 - 🕒 Show timings and dynamic pricing
