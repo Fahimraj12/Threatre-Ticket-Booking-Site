@@ -63,10 +63,10 @@ Theatre-Ticket-Booking/
 ├── src/
 │   ├── components/
 │   │   ├── Cinema.jsx
-│   │   └── Home.jsx
+│   │   ├── Home.jsx
 │   │   ├── Payment.jsx
 │   │   ├── PaymentSuccess.jsx
-│   │   ├── Success.jsx
+│   │   └── Success.jsx
 │   ├── App.js
 │   ├── index.js
 │   └── App.css
