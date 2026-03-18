@@ -84,4 +84,5 @@ Theatre-Ticket-Booking/
 - 📧 [mofahimraj@gmail.com]
 - 🔗 [GitHub Profile](https://github.com/Fahimraj12)
 
+- Make a star ⭐ to this repo if you like the projects 
 ###### Built with ❤️
