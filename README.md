@@ -2,7 +2,7 @@
 - A responsive React-based web application that allows users to browse movies, select seats, and book theatre tickets with a smooth user experience.
 The project is deployed live on Netlify and includes animations, seat selection, and payment success screens.
 
-### 🌐 Live Demo
+### 🌐 Live Demo:
 - 🔗 [theatre-booking-site.netlify.app](https://theatre-booking-site.netlify.app/)
 
 ### 📸 Screenshots
