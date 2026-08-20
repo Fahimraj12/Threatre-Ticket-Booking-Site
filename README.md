@@ -6,7 +6,6 @@ The project is deployed live on Netlify and includes animations, seat selection,
 - 🔗 [theatre-booking-site.netlify.app](https://theatre-booking-site.netlify.app/)
 
 ### 📸 Screenshots
-
 - 🎬 Home Page
 <img width="1470" height="956" alt="Screenshot 2025-10-26 at 11 35 49 AM" src="https://github.com/user-attachments/assets/6f1d9efc-91fe-4ec4-a8f3-f64d29dd332f" /><img width="1467" height="801" alt="Screenshot 2025-10-26 at 11 35 57 AM" src="https://github.com/user-attachments/assets/41ef2035-f448-4a16-938b-b6f0015d6fa8" />
 
